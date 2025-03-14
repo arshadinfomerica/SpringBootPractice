@@ -32,9 +32,5 @@ Delete an entity
 
 ![Screenshot 2025-03-14 103708](https://github.com/user-attachments/assets/4c29b9cc-43fa-421c-9618-56ffdb39994c)
 
-│
-├── src/main/resources
-│   ├── application.properties  # Configuration File
-│
-├── pom.xml  # Maven Dependencies
+
 
