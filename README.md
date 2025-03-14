@@ -28,3 +28,23 @@ Update an entity
 
 Delete an entity
 
+
+
+**Project Structure **
+
+
+├── src/main/java/com/example/demo
+│   ├── controller        # REST API Controllers
+│   ├── dto               # Data Transfer Objects
+│   ├── entity            # JPA Entities
+│   ├── exception         # Custom Exceptions
+│   ├── repository        # JPA Repositories
+│   ├── service           # Business Logic Services
+│   ├── service/impl      # Service Implementations
+│   ├── DemoApplication.java  # Main Application Class
+│
+├── src/main/resources
+│   ├── application.properties  # Configuration File
+│
+├── pom.xml  # Maven Dependencies
+
