@@ -36,3 +36,8 @@ This is a simple Spring Boot application that demonstrates CRUD (Create, Read, U
 
 
 
+![Screenshot 2025-03-14 104438](https://github.com/user-attachments/assets/b5668b9b-bb37-4cb3-9623-6eb987995ca4)
+
+
+
+
