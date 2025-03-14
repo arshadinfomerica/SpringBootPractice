@@ -30,18 +30,8 @@ Delete an entity
 
 
 
-**Project Structure **
+![Screenshot 2025-03-14 103708](https://github.com/user-attachments/assets/4c29b9cc-43fa-421c-9618-56ffdb39994c)
 
-
-├── src/main/java/com/example/demo
-│   ├── controller        # REST API Controllers
-│   ├── dto               # Data Transfer Objects
-│   ├── entity            # JPA Entities
-│   ├── exception         # Custom Exceptions
-│   ├── repository        # JPA Repositories
-│   ├── service           # Business Logic Services
-│   ├── service/impl      # Service Implementations
-│   ├── DemoApplication.java  # Main Application Class
 │
 ├── src/main/resources
 │   ├── application.properties  # Configuration File
