@@ -4,29 +4,31 @@ This is a simple Spring Boot application that demonstrates CRUD (Create, Read, U
 
 **Technologies Used**
 
-Java 17+
+-Java 17+
 
-Spring Boot
+-Spring Boot
 
-Spring Data JPA
+-Lombok
 
-Hibernate
+-Spring Data JPA
 
-Oracle DataBase
+-Hibernate
 
-Maven
+-Oracle DataBase
+
+-Maven
 
 **Features**
 
-Create a new entity
+-Create a new entity
 
-Retrieve entity by ID
+-Retrieve entity by ID
 
-Retrieve all entities
+-Retrieve all entities
 
-Update an entity
+-Update an entity
 
-Delete an entity
+-Delete an entity
 
 
 
